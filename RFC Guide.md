@@ -307,7 +307,7 @@ One of the most worthwhile and effective recruiting opportunities is the present
 RDAs will manage the high school presentation process within their regions. If detachment cadre are unable to support a request, ROs should coordinate with local AFJROTC detachment personnel, ALOs, and local officer and enlisted recruiters to see if they are available to support the request. Scholarship presentations should be scheduled and documented in the HSSP presentations section in WINGS.
 
 ### Process
-Ceremony information to include location, presenter information, and notes should be entered into WINGS. In WINGS, Click HSSPIndividual Presentation Infoenter scholarship recipient’s nameenter applicable information. Please see attachment 4 for more information.
+Ceremony information to include location, presenter information, and notes should be entered into WINGS. In WINGS, Click HSSP > Individual Presentation Info > enter scholarship recipient’s name > enter applicable information. Please see attachment 4 for more information.
 
 ### Resources
 A presentation certificate can be found in WINGS. 

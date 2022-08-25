@@ -1,8 +1,10 @@
-CHAPTER 1 – RECRUITING PROGRAM
+# RFC Guide
+
+## CHAPTER 1 – RECRUITING PROGRAM
 1.1.	Overview. This guide is designed to familiarize Air Force Reserve Officer Training Corps (AFROTC) recruiting officers (RO) with detachment-level recruiting responsibilities and processes. It also provides tips and recommendations from the field to assist ROs in their duties. 
 1.2.	Detachment-Level Recruiting. ROs are an integral part of the detachment dynamics. They manage detachment activities to recruit in-college, high school, and enlisted members from the local area. Recruiting emphasis generally shifts between these markets based on the time of year with scholarship deadlines, college orientation, and class registration schedules. Detachment cadets are ROs’ most valuable recruiting tools. The cadets bring energy and charisma to recruiting events while also relating closely to candidates because they were most recently in the same position before joining AFROTC.
 
-CHAPTER 2 – RECRUITING PLAN
+## CHAPTER 2 – RECRUITING PLAN
 2.1.	Recruiting Plan. Recruiting plans provide a source of continuity to identify detachment recruiting objectives, available markets, and a list of recruiting events. ROs must review previous years’ recruiting plans to analyze strengths, weaknesses, and opportunities for the purpose of setting future goals. At a minimum, the recruiting plan will include the following items:
 2.1.1.	Record of Review. Recruiting plans must be approved by the RO and detachment commander.
 2.1.2.	Table of Contents.
@@ -67,7 +69,7 @@ CHAPTER 2 – RECRUITING PLAN
 2.5.3.3. Manage your contact worklist in WINGS, and follow-up with leads consistently to move them through the recruitment process.
 2.5.3.4. Provide an orientation guide or welcome packet to incoming students.
 
-CHAPTER 3 – LEAD AND INFLUENCER MANAGEMENT 
+## CHAPTER 3 – LEAD AND INFLUENCER MANAGEMENT 
 3.1.	Overview. Upon completion of a recruiting opportunity, ROs should follow-up with leads and influencers. WINGS is the AFROTC customer relationship management system and facilitates lead management; therefore, all AFROTC recruiters must enter their leads into WINGS.  
 3.1.1.	Guidance and Expectations. Every lead’s contact information must be entered into and managed via WINGS. ROs may maintain a running spreadsheet with contacts and leads or an email organizational system but are required to input data into WINGS weekly. To enter contact information into WINGS, after logging in, go to Recruiting/Admissions  Contact Search, enter data into at least one field (last name works best), and check the box next to the Submit button. If the lead or influencer is already in the system, click their last name to edit their information. If the lead or influencer does not have an entry in the system, click Create New (See Figures 3.1. – 3.3.). Enter all applicable information and click Save. Initial contact options are as follows:
 3.1.1.2. 	Blue Card – Postcards that leads fill out at events and mail in.
@@ -134,7 +136,7 @@ Figure 3.11. – App ID and Status moved next to Contact Status
 Figure 3.12. – Use the Contact Worklist to track correspondence with leads
  
 
-CHAPTER 4 – MARKETING
+## CHAPTER 4 – MARKETING
 4.1.	Overview. ROs are responsible for AFROTC marketing in their AOR. This responsibility consists of procuring and distributing AFROTC material, developing and distributing detachment-specific advertising, and the planning and execution of center of influence (COI) events.
 4.2.	Resources. ROs will plan, manage, and submit marketing requests on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Marketing Request Form. ROs can use the form to order AFROTC special promotional items (SPI) and detachment-specific advertising and request approval for COI events.
 4.3. Special Promotional Items. These items consist of generic AFROTC-produced marketing materials and brochures. Funding for SPI will be provided by AFROTC and may vary from year to year.
@@ -188,8 +190,7 @@ CHAPTER 4 – MARKETING
 4.6.8. Invite a guest speaker or person of significant influence (e.g. distinguished alumni) to give your COI personnel an idea of their future trajectory after completing the AFROTC program.
 4.6.9. Work with the local school districts to find out when they are training their guidance counselors prior to the start of school and arrange a COI event there. University admissions officers, university freshman orientation personnel, parent-based groups (high school parent teacher association or organization (PTA/PTO)), Boy Scout and Girl Scout leadership training events may provide a great COI opportunity.
 
-
-CHAPTER 5 – DETACHMENT WEBSITE AND SOCIAL MEDIA
+## CHAPTER 5 – DETACHMENT WEBSITE AND SOCIAL MEDIA
 5.1.	Overview. The easiest means of advertising is through a detachment website and social media. ROs should make every effort possible to establish and maintain a detachment-specific website on their host university server.
 5.2.	Guidance. Detachments must abide by the list of required items for detachment websites and ensure compliance with applicable restrictions including but not limited to AFROTC Instruction (AFROTCI) 36-2011, Air Force Instruction (AFI) 33-332, AFI 35-107, DoD 5400.78R/AR Supplement 1 and USAF Social Media Guide (http://www.af.mil/AF-Sites/Social-Media-Sites/). The Air Force (AF) Form 2519 (website checklist) can be found on Teams ROTC-Recruiting Branch (RRR)- ROTC-Recruiting Branch (RRR)-General-Files-RO Training, Continuity, Guides, and Templates-Website Review Checklist.
 5.3.	Approval Process. Approval for detachment websites by Air University Public Affairs (AU/PA) and AFROTC/RRR is required annually. All changes to the detachment website within the approved annual cycle, must be resubmitted for approval. To receive approval, detachment cadre may submit a completed AF Form 2519 to AU/PA by emailing Mr. John Coyle at john.coyle.4@us.af.mil. Upon approval by AU/PA, submit the completed form to AFROTC/RRR by emailing Ms. Linda Colvin at linda.colvin@us.af.mil. Retain a copy of the approved AF Form 2519 and AFROTC/RRR approval email in your continuity file.
@@ -216,7 +217,7 @@ CHAPTER 5 – DETACHMENT WEBSITE AND SOCIAL MEDIA
 5.6.1. Maximize the use of social media (Facebook, Twitter, Instagram, YouTube, etc.) to communicate scholarships, diversity, and opportunities that AFROTC provides. Please tag the main AFROTC Facebook and Instagram pages when you post on your detachment page or use #afrotc. The Facebook name is Air Force ROTC and the Instagram name is @usafrotc.
 5.6.2. Day in the life of a cadet and detachment videos are great recruiting tools. A few examples can be found on the RRR Intranet site.
 
-CHAPTER 6 – HIGH SCHOOL SCHOLARSHIP PRESENTATIONS
+## CHAPTER 6 – HIGH SCHOOL SCHOLARSHIP PRESENTATIONS
 6.1.	Overview. One of the most worthwhile and effective recruiting opportunities is the presentation of high school scholarships at high schools in your local area. These presentations typically reach a large target audience of influencers and future prospects. Detachment personnel should make every effort to support these presentations. AFROTC scholarship presenters must wear service dress.
 6.2.	Guidance. RDAs will manage the high school presentation process within their regions. If detachment cadre are unable to support a request, ROs should coordinate with local AFJROTC detachment personnel, ALOs, and local officer and enlisted recruiters to see if they are available to support the request. Scholarship presentations should be scheduled and documented in the HSSP presentations section in WINGS.
 6.3.	Process. Ceremony information to include location, presenter information, and notes should be entered into WINGS. In WINGS, Click HSSPIndividual Presentation Infoenter scholarship recipient’s nameenter applicable information. Please see attachment 4 for more information.
@@ -224,7 +225,7 @@ CHAPTER 6 – HIGH SCHOOL SCHOLARSHIP PRESENTATIONS
 6.4.1. A presentation certificate can be found in WINGS. Click HSSPIndividual Presentation Infoenter scholarship recipient’s nameClick Print Certificate at the bottom of the screen.
 6.4.2. A sample script can be found on the Intranet. Click RegistrarBoards & Scholarships Sample HSSP Presentation.
 
-ATTACHMENT 1 - COI EVENT REQUEST EXAMPLES 
+## ATTACHMENT 1 - COI EVENT REQUEST EXAMPLES 
 Example 1 – High School Shadow Day Lunch Presentation.
 How will funding be used? Our host university supports an annual shadow day for high school seniors and their parents. We have solicited the participating students and asked if they are interested in learning more about the AFROTC program. This year’s shadow day is scheduled for Friday, 22 October from 0900-1800L. At 1200L, the RO will escort students and parents over to the detachment for a presentation and lunch (McAlister’s sandwiches, chips, and drinks). We will have approximately two hours for LLAB, presentations, and lunch before the students need to return to the main group.
 Objective: Capitalize on university’s shadow day by creating a separate AFROTC event. This will increase AFROTC visibility at our host university by allowing interested high school students to observe a LLAB, receive briefings on the AFROTC program, and learn about HSSP opportunities.
@@ -243,7 +244,8 @@ How will funding be used? Purchase pizza and drinks for members of the Engineeri
 Objective: Our goal is to increase AFROTC awareness and visibility amongst highly qualified students at one of our underrepresented cross-towns. We received a list of academically qualified freshmen in the engineering department from the registrar’s office and have discovered that most of them are members of the Engineering and Technology Club. After the president opens the meeting, we will explain the AFROTC program, in-college scholarship program (ICSP) opportunities, and USAF job opportunities.
 How will the attendees receive information about AFROTC? We invited a developmental engineer from a local AFB to share her personal story, the RO will provide a general AFROTC presentation and we will have a POC cadet (engineering major) share his AFROTC experience.
 Civilian Attendance: 30 (Leads: 30, Influencers: 0); Military Attendance: 3  
-ATTACHMENT 2 – SCHOLARSHIP PRESENTATION PROCESS
+
+## ATTACHMENT 2 – SCHOLARSHIP PRESENTATION PROCESS
 
 Scholarship Presentation Process
 Air Shows (HQ and Local Recruiter)
@@ -282,3 +284,79 @@ All other scholarship presentations (RDAs and Local Recruiters)
 9.	Report presentation numbers to HQ monthly. 
 Attachment: Form 15
 *Requesting for next cycle that WINGS office puts a message in WINGS, after a student has accepted their scholarship, instructing them to go to WINGS>HSSP>Individual Presentation. The student would put in their presentation request info. WINGS would provide a query that RDAs can pull to see who is requesting presentations and the details related. 
+
+## ATTACHMENT 3 - RFC Onboarding Guide
+Congratulations on being assigned as your new Detachment Recruiting Officer! This onboarding guide will assist you with getting set up in your new role and will help ensure you do not miss any critical steps or deadlines.
+
+## Set up accounts and create logins
+- [ ] Email
+- [ ] Voicemail
+- [ ] WINGS
+- [ ] MS TEAMs
+	- [ ] ROTC
+	- [ ] ROTC- Recruiting Branch (RRR)
+	- [ ] ROTC- XXX Region
+- [ ] University Website Editor Rights
+- [ ] Google Drive for AAR Report Submissions
+
+## Review RO Guidance on TEAMs (RO Guides)
+- [ ] Read National Recruiting Strategy
+- [ ] Read Recruiting Officer Guide
+- [ ] Read AETCI 36-2909 Recruiting, Education, & Training Standards
+- [ ] Read AFROTCI 36-2011
+
+## Familiarize yourself with the Intranet & WINGS
+- [ ] Intranet
+	- **Registrar Tab**
+		- Holm Center Portal > Intranet > ROTC > Registrar > **Recruiting Branch** (RRR)
+		- Holm Center Portal > Intranet > ROTC > Registrar > **Scholarships Branch** (RRU)
+			  - Most up to date HSSP Cycle Guide & Resources
+			  - Scholarship POCs & contact information
+			  - HSSP Board Results
+- [ ] WINGS
+	- **Go to Recruiting | Admissions Tile**
+		- **Leads Database**
+		- Reference Recruiting Officer Guide for “How to” on entering Leads into WINGS (RO Guide)
+		- **HSSP Database**
+			- Allows you to see all eligible Applicants, Individual Presentation Info, Interview Scheduling, and your Interview Worklist
+
+## Review RO Training & Continuity Folder on TEAMS
+- [ ] [Advertising](https://airuniversity.sharepoint.com/:f:/r/teams/ROTC-RecruitingBranch/Shared%20Documents/General/RO%20Training,%20Continuity,%20Guides,%20%26%20Templates/Advertising?csf=1&web=1&e=Txz70b)
+- [ ] [Cadre & Cadet RO Training](https://airuniversity.sharepoint.com/:f:/r/teams/ROTC-RecruitingBranch/Shared%20Documents/General/RO%20Training,%20Continuity,%20Guides,%20%26%20Templates/Cadre%20%26%20Cadet%20RO%20Training?csf=1&web=1&e=yBWX2y)
+- [ ] [Enlisted Commissioning Programs](https://airuniversity.sharepoint.com/:f:/r/teams/ROTC-RecruitingBranch/Shared%20Documents/General/RO%20Training,%20Continuity,%20Guides,%20%26%20Templates/Enlisted%20Commissioning%20Programs?csf=1&web=1&e=VrMqIX)
+- [ ] [HSSP Interview Guide and Commander Scholarship Guide](https://airuniversity.sharepoint.com/:f:/r/teams/ROTC-RecruitingBranch/Shared%20Documents/General/RO%20Training,%20Continuity,%20Guides,%20%26%20Templates/HSSP%20Interview%20Guide,%20CC%20Scholarship,%20Postcards?csf=1&web=1&e=vdfY2r)
+- [ ] Check Intranet for most-up-to-date HSSP Cycle Guide
+    - The HSSP Cycle Guide will have HSSP board dates/timelines and Commander Scholarship deadline/process
+- [ ] Marketing Funds
+- [ ] Medical Programs
+- [ ] (JAG Programs) OYCP, GLP, and Educational Delay
+- [ ] Recruiting Plans
+- [ ] Website Review
+
+## Track Deadlines for Key Events
+- [ ] **Annual Recruiting Plan**
+	- Follow ARMS Message Guidance
+	- Det/CC must sign **NLT 1 Oct**
+	- Dets are no longer required to submit their plans to HQ
+- [ ] **HSSP Application window** **(1 Jul-13 Jan)**
+	- Board Timelines & Results :
+		- [ ] TODO: Insert Screenshot of AY22-23 HSSP Board Schedule
+- [ ] **Commander Scholarships**
+	- Detachment nominations must be uploaded into WINGS NLT **19 Mar 22**
+- [ ] **Annual Website Reviews**
+	- The annual deadline is detachment specific (reach out to Mr. John Coyle (john.coyle.4@us.af.mil), if you are unsure of your deadline
+	- Review Detachment Website
+	- Fill out AF Form 2519
+	- Send the completed form to the following:
+		- Email (AU/PA) Mr. John Coyle
+		   (john.coyle.4@us.af.mil), once approved, then...
+		- Email (AFROTC/RRR) Ms. Linda Colvin (linda.colvin@us.af.mil)
+    - Maintained signed copy and approval emails from both
+AU/PA & AFROTC/RRR for SAP purposes
+- [ ] **Monthly After-Action Report Submissions**
+	- Review requirements in TEAMS
+	- TEAMS > ROTC – Recruiting Branch (RRR) > ROs-Det Cadre > Plans & AARs
+	- If not done so already, create a Det RO Google Account to upload AAR Memos to TEAMS
+	- Submit monthly AAR here: [RO AAR]
+
+

@@ -75,77 +75,122 @@ If the university has a listing of student organizations, you may be able to ide
 Recruiting plan examples are provided on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Files-Example Recruiting Plans. The recruiting plan  checklist is provided on Teams under ROTC-Recruiting Branch (RRR)-General-Files-RO Training, Continuity, Guides, and Templates-Recruiting Plans
 
 ### Tips and Recommendations in the Execution of the Recruiting Plan
-2.5.1.	Phase 1. Planning.
-2.5.1.1. Verify all contact information from the previous year’s plan. Ensure you update the high schools’ info before they close for the school year to ensure you have accurate information to begin scheduling visits when academics resume.
-2.5.1.2. Be ambitious in planning, put a lot of events on the calendar, so if you miss some, it will not impact your production goals.
-2.5.1.3. Use organizational email addresses versus personal accounts whenever possible. People change frequently, but organizations do not.
-2.5.1.4. Obtain physical mailing addresses for feeder high schools to send AFROTC material when visiting the campus is not feasible.
-2.5.1.5. Leverage the cadet recruiting officer at your detachment. Cadet ROs can coordinate with public affairs and community involvement officers to maximize awareness of the detachment. Cadet ROs should know the university, be highly organized, and have extroverted personalities to the greatest degree possible. Cadet ROs will ensure recruiting opportunities are manned by cadets as needed, all cadets have been trained by the cadre prior to recruiting events, and all necessary recruiting material is prepared prior to the event. Competent cadet ROs should be allowed to innovate and experiment to leverage every opportunity open to the detachment.
-2.5.1.6. Leverage your cadets’ knowledge of the school/life as a cadet. After you have provided required training/talking points, put the cadets out front at on-campus events. College students are more likely to talk to someone their age.
-2.5.1.7. Whenever possible, send at least two people to recruiting opportunities. It provides more flexibility; you can talk to more people at once, and it assists in appearances.
-2.5.1.8. Find college fairs in your AOR (usually held in the fall to coincide with application deadlines). These college fairs are excellent resources to speak with multiple students (and parents) from different parts of the state. Team up with other recruiting assets to attend these events, especially if there is a fee involved. The university admissions office may be able to provide some college fair information.
-2.5.1.9. Meet the other recruiters (AFRS, USAFA, and ARC/ANG) covering your AOR to collaborate and de-conflict when possible. Presenting a united front not only saves resources and eliminates duplicate efforts but also leaves a better impression of the USAF. Multiple AF recruiters showing up only days apart is confusing to most counselors. Be able to make by name referrals when prospects do not meet AFROTC requirements. Likewise, ensure other recruiters have your information to give to those interested in AFROTC. You can find an enlisted recruiter based on zip code at www.airforce.com and the local USAFA ALO based on a high school at https://www.academyadmissions.com/admissions/outreach-programs/find-your-admissions-liaison-officer/.
-2.5.1.10. Attend training at USAFA ALO area annual meetings, brief them on the AFROTC HSSP process, and provide them with AFROTC materials such as brochures and special promotion items.
-2.5.1.11. Coordinate with USAFA ALOs to inquire with congressional offices to see if they will allow AFROTC participation in their recruitment events for the military academies--Service Academy Night.
-2.5.1.12. Make a good faith effort to contact or visit each cross-town school at least once a year. Introduce yourself to admissions teams and advisors and provide them with business cards and recruiting information to distribute to interested students.
-2.5.1.13. If your school has a marketing or public affairs program, request a market analysis. This assignment will likely be tasked out as a project for an advanced group of students and can provide tailored insights about your zone at no cost.
-2.5.1.14. Know your school’s freshman/new student orientation programs. These programs may be spread across multiple offices and points of contact (POCs), so cultivate relationships there and know the school timelines to sign up. Request the detachment’s email address be added to the distribution list so you will receive all emails regarding these events. Attend all the opportunities you can to increase awareness and to answer questions.
-2.5.1.15. Know your local AFJROTC/Civil Air Patrol (CAP) units (if applicable). AFJROTC and CAP units are great target markets due to their general understanding of the military. Talk with the AFJROTC and CAP commander and make sure he/she understands the current AFROTC application process and HSSP application deadlines.
-2.5.1.16. Reach out to the STEM departments at your university. Ask to give a quick five-minute presentation to a STEM freshman orientation level class. Provide your business card and brochures to academic advisors in these departments so they can send interested students your way.
-2.5.1.17. Reach out to the technical and minority student organizations at your university and cross-town universities to provide information on AFROTC.
-2.5.1.18. Know your school’s fraternity/sorority rush process. Can you use their process to your advantage to raise your detachment’s profile with students already seeking to join something greater than themselves? Do this prior to drop/add date.
-2.5.1.19. Detachments should have a dedicated space to talk with prospective students/families. If able, place marketing materials in the room to help the student make a decision about joining.
-2.5.1.20. Have a plan for when families/students visit the detachment. Have handouts ready that you can show them while you discuss AFROTC opportunities.
-2.5.1.21. If your university allows, offer shadow days for parents and prospective students to participate in a class or leadership laboratory (LLAB). Provide them the opportunity to interact with current cadets. Universities are often in session during high school spring breaks, so this may be a prime time to host shadow days.
-2.5.1.22. Use data from the Joint Advertising, Market Research and Studies (JAMRS) analysis to focus your recruiting efforts and make the most efficient use of the recruiting timeline.
-2.5.2. Phase II. Interaction.
-2.5.2.1. Be prepared to be told “no” by the majority of people you speak with. Be respectful of that choice and avoid a “hard sell.” You are offering students an opportunity, they have to choose to accept it. Be aware of parents that are more interested than their child in AFROTC as this is not a recipe for success.
-2.5.2.2. When talking to incoming freshmen, emphasize the network/camaraderie they gain by participating in AFROTC. Discuss the opportunities, fitness, public speaking, summer professional development trainings (PDTs), etc.
-2.5.2.3. Let students know if your university provides any added benefits for AFROTC cadets. Some schools provide free room and board to students who participate in AFROTC or are on a scholarship with AFROTC. Additionally, some schools even offer in-state tuition just for participating in AFROTC.
-2.5.2.4. Keep your message simple. Make sure your language is as civilian friendly as possible and avoid acronyms on your presentation slides and your verbal remarks. Do not bury them in information; have three main points such as college education, opportunity to serve, and guaranteed job after graduation. However, it is important to tailor your message to your audience. People that are interested in knowing more will approach you after the presentation or contact your office.
-2.5.2.5. Establish realistic expectations of the AFROTC program. AFROTC demands time and effort from each cadet. Promote incentives for enrolling in AFROTC at the university (e.g., priority registration, room/board rates, scholarships specifically for cadets, etc.). Tell students what your program requires, events and timeframes, and then tell them if your program has extracurricular activities. Does your university or crosstowns offer early enrollment or scholarships specifically for AFROTC students?
-2.5.2.6. Let students know that they will be graduating with a career while their peers are filling out applications and writing resumes.
-2.5.2.7. Be familiar with the very basic medical requirements (Cadet Medical Processing Guide), but refer prospects to the Department of Defense Medical Review Board (DoDMERB) at 719-333-3562 if they have additional questions.
-2.5.2.8. An email template repository can greatly speed-up responses to general inquiries by interested students. While each student’s individual questions should be addressed, many students just make a general request for information.
-2.5.3. Phase III. Follow-up.
-2.5.3.1. Follow-up is key to turning a contact into a cadet! Within 48 hours of the initial interaction, reach out to the contact via email or phone call. As you interact with individuals, you should gather more information about them; they can be placed into two main categories: a contact and a lead. Contacts are anyone just requesting information. A lead is someone that you have verified meets the minimum criteria to join AFROTC or is qualified to apply for a HSSP. Once a person signs up for AFROTC classes, they will then be considered a cadet.
-2.5.3.2. Match leads with a like-major cadet via email or in-person meeting.
-2.5.3.3. Manage your contact worklist in WINGS, and follow-up with leads consistently to move them through the recruitment process.
-2.5.3.4. Provide an orientation guide or welcome packet to incoming students.
+#### Phase 1. Planning
+Verify all contact information from the previous year’s plan. Ensure you update the high schools’ info before they close for the school year to ensure you have accurate information to begin scheduling visits when academics resume.
+
+Be ambitious in planning, put a lot of events on the calendar, so if you miss some, it will not impact your production goals.
+
+Use organizational email addresses versus personal accounts whenever possible. People change frequently, but organizations do not.
+
+Obtain physical mailing addresses for feeder high schools to send AFROTC material when visiting the campus is not feasible.
+
+Leverage the cadet recruiting officer at your detachment. Cadet ROs can coordinate with public affairs and community involvement officers to maximize awareness of the detachment. Cadet ROs should know the university, be highly organized, and have extroverted personalities to the greatest degree possible. Cadet ROs will ensure recruiting opportunities are manned by cadets as needed, all cadets have been trained by the cadre prior to recruiting events, and all necessary recruiting material is prepared prior to the event. Competent cadet ROs should be allowed to innovate and experiment to leverage every opportunity open to the detachment.
+
+Leverage your cadets’ knowledge of the school/life as a cadet. After you have provided required training/talking points, put the cadets out front at on-campus events. College students are more likely to talk to someone their age.
+
+Whenever possible, send at least two people to recruiting opportunities. It provides more flexibility; you can talk to more people at once, and it assists in appearances.
+
+Find college fairs in your AOR (usually held in the fall to coincide with application deadlines). These college fairs are excellent resources to speak with multiple students (and parents) from different parts of the state. Team up with other recruiting assets to attend these events, especially if there is a fee involved. The university admissions office may be able to provide some college fair information.
+
+Meet the other recruiters (AFRS, USAFA, and ARC/ANG) covering your AOR to collaborate and de-conflict when possible. Presenting a united front not only saves resources and eliminates duplicate efforts but also leaves a better impression of the USAF. Multiple AF recruiters showing up only days apart is confusing to most counselors. Be able to make by name referrals when prospects do not meet AFROTC requirements. Likewise, ensure other recruiters have your information to give to those interested in AFROTC. You can find an enlisted recruiter based on zip code at www.airforce.com and the local USAFA ALO based on a high school at https://www.academyadmissions.com/admissions/outreach-programs/find-your-admissions-liaison-officer/.
+
+Attend training at USAFA ALO area annual meetings, brief them on the AFROTC HSSP process, and provide them with AFROTC materials such as brochures and special promotion items.
+
+Coordinate with USAFA ALOs to inquire with congressional offices to see if they will allow AFROTC participation in their recruitment events for the military academies--Service Academy Night.
+
+Make a good faith effort to contact or visit each cross-town school at least once a year. Introduce yourself to admissions teams and advisors and provide them with business cards and recruiting information to distribute to interested students.
+
+If your school has a marketing or public affairs program, request a market analysis. This assignment will likely be tasked out as a project for an advanced group of students and can provide tailored insights about your zone at no cost.
+
+Know your school’s freshman/new student orientation programs. These programs may be spread across multiple offices and points of contact (POCs), so cultivate relationships there and know the school timelines to sign up. Request the detachment’s email address be added to the distribution list so you will receive all emails regarding these events. Attend all the opportunities you can to increase awareness and to answer questions.
+
+Know your local AFJROTC/Civil Air Patrol (CAP) units (if applicable). AFJROTC and CAP units are great target markets due to their general understanding of the military. Talk with the AFJROTC and CAP commander and make sure he/she understands the current AFROTC application process and HSSP application deadlines.
+
+Reach out to the STEM departments at your university. Ask to give a quick five-minute presentation to a STEM freshman orientation level class. Provide your business card and brochures to academic advisors in these departments so they can send interested students your way.
+
+Reach out to the technical and minority student organizations at your university and cross-town universities to provide information on AFROTC.
+
+Know your school’s fraternity/sorority rush process. Can you use their process to your advantage to raise your detachment’s profile with students already seeking to join something greater than themselves? Do this prior to drop/add date.
+
+Detachments should have a dedicated space to talk with prospective students/families. If able, place marketing materials in the room to help the student make a decision about joining.
+
+Have a plan for when families/students visit the detachment. Have handouts ready that you can show them while you discuss AFROTC opportunities.
+
+If your university allows, offer shadow days for parents and prospective students to participate in a class or leadership laboratory (LLAB). Provide them the opportunity to interact with current cadets. Universities are often in session during high school spring breaks, so this may be a prime time to host shadow days.
+
+Use data from the Joint Advertising, Market Research and Studies (JAMRS) analysis to focus your recruiting efforts and make the most efficient use of the recruiting timeline.
+
+#### Phase II. Interaction
+Be prepared to be told “no” by the majority of people you speak with. Be respectful of that choice and avoid a “hard sell.” You are offering students an opportunity, they have to choose to accept it. Be aware of parents that are more interested than their child in AFROTC as this is not a recipe for success.
+
+When talking to incoming freshmen, emphasize the network/camaraderie they gain by participating in AFROTC. Discuss the opportunities, fitness, public speaking, summer professional development trainings (PDTs), etc.
+
+Let students know if your university provides any added benefits for AFROTC cadets. Some schools provide free room and board to students who participate in AFROTC or are on a scholarship with AFROTC. Additionally, some schools even offer in-state tuition just for participating in AFROTC.
+
+Keep your message simple. Make sure your language is as civilian friendly as possible and avoid acronyms on your presentation slides and your verbal remarks. Do not bury them in information; have three main points such as college education, opportunity to serve, and guaranteed job after graduation. However, it is important to tailor your message to your audience. People that are interested in knowing more will approach you after the presentation or contact your office.
+
+Establish realistic expectations of the AFROTC program. AFROTC demands time and effort from each cadet. Promote incentives for enrolling in AFROTC at the university (e.g., priority registration, room/board rates, scholarships specifically for cadets, etc.). Tell students what your program requires, events and timeframes, and then tell them if your program has extracurricular activities. Does your university or crosstowns offer early enrollment or scholarships specifically for AFROTC students?
+
+Let students know that they will be graduating with a career while their peers are filling out applications and writing resumes.
+
+Be familiar with the very basic medical requirements (Cadet Medical Processing Guide), but refer prospects to the Department of Defense Medical Review Board (DoDMERB) at 719-333-3562 if they have additional questions.
+
+An email template repository can greatly speed-up responses to general inquiries by interested students. While each student’s individual questions should be addressed, many students just make a general request for information.
+
+#### Phase III. Follow-up
+Follow-up is key to turning a contact into a cadet! Within 48 hours of the initial interaction, reach out to the contact via email or phone call. As you interact with individuals, you should gather more information about them; they can be placed into two main categories: a contact and a lead. Contacts are anyone just requesting information. A lead is someone that you have verified meets the minimum criteria to join AFROTC or is qualified to apply for a HSSP. Once a person signs up for AFROTC classes, they will then be considered a cadet.
+
+Match leads with a like-major cadet via email or in-person meeting.
+
+Manage your contact worklist in WINGS, and follow-up with leads consistently to move them through the recruitment process.
+
+Provide an orientation guide or welcome packet to incoming students.
 
 ## CHAPTER 3 – LEAD AND INFLUENCER MANAGEMENT 
-3.1.	Overview. Upon completion of a recruiting opportunity, ROs should follow-up with leads and influencers. WINGS is the AFROTC customer relationship management system and facilitates lead management; therefore, all AFROTC recruiters must enter their leads into WINGS.  
-3.1.1.	Guidance and Expectations. Every lead’s contact information must be entered into and managed via WINGS. ROs may maintain a running spreadsheet with contacts and leads or an email organizational system but are required to input data into WINGS weekly. To enter contact information into WINGS, after logging in, go to Recruiting/Admissions  Contact Search, enter data into at least one field (last name works best), and check the box next to the Submit button. If the lead or influencer is already in the system, click their last name to edit their information. If the lead or influencer does not have an entry in the system, click Create New (See Figures 3.1. – 3.3.). Enter all applicable information and click Save. Initial contact options are as follows:
-3.1.1.2. 	Blue Card – Postcards that leads fill out at events and mail in.
-3.1.1.3.	 		High School Visit/Presentation – A RO or Gold Bar visit to a high school.
-3.1.1.4.	High School College Fair – Leads gained from high school hosted college fairs.
-3.1.1.5.	AFJROTC – Leads interested based on AFJROTC participation.
-3.1.1.6.	College/Job Fair – Leads generated from college or job fairs.
-3.1.1.7.	Air Show – Leads generated from an air show.
-3.1.1.8.	Community Event – Leads generated from local events.
-3.1.1.9.	Cold Call – Leads called the National Call Center, RDA, or detachment.
-3.1.1.10.	Direct Mail – Leads generated in response to direct mail campaigns.
-3.1.1.11.	Online AFROTC Application – Lead submitted a HSSP or admissions application.
-3.1.1.12.	AFROTC.com – Leads generated from visiting the AFROTC website.
-3.1.1.13.	Detachment Website – Leads contacted detachment via the detachment’s website.
-3.1.1.14.	Direct Leads Database – Leads transferred from Department of Defense (DoD) database.
-3.1.1.15.	Scholarship Presentation – Leads generated from seeing an HSSP presentation.
-3.1.1.16.	AFROTC Cadet Referral – Leads heard about AFROTC from a cadet.
-3.2.	Managing Leads. Once a lead’s contact information has been documented in WINGS, they need to be classified to identify their progression in the recruiting process. Classifying leads will help you focus on encouraging the lead to take the next step in the recruiting process and allows you to appropriately manage your lead pipeline to determine when you need to invest in more prospecting/lead generating activities. Additionally, Headquarters AFROTC Recruiting Branch (AFROTC/RRR) will use this information to gauge and credit recruiting efforts nationwide.
-3.2.1.	Classification Categories. Leads will be classified based on the following categories.
-3.2.1.1. Category 0 – Disqualified/No Interest. Place a contact in this status if they have been disqualified, are no longer interested, or it has been determined the contact should be abandoned due to lack of response or willingness to commit. This classification removes the contact from your worklist.
-3.2.1.2. Category 1 – Initial Contact. Place a lead in this status after the first time the RO contacts the individual after collecting the lead’s information. Initial contact must occur within one week of receiving the lead’s information.
-3.2.1.3. Category 2 – Follow-up Contact. Place a lead in this status if the individual responds to initial contact and continues dialogue. Lead will remain in this status until a committed action is taken or the lead is disqualified or abandoned.
-3.2.1.4. Category 3 – Committed Applicant. Place a lead in this status if the individual has applied to join AFROTC or applied for HSSP. Once this lead is gained as a cadet, the lead is removed from all contact worklists.
-3.2.1.5. Cadet. Place a lead in this status once they have enrolled in AFROTC classes or accepted a HSSP scholarship. Once this lead is gained as a cadet by the detachment, the lead is removed from all contact worklists.
-3.2.1.6. Influencer. Category can be used to assist with tracking/engaging key influencers in a recruiter’s AOR.
-3.2.1.7. TBD – To be determined. This is the status assigned to all new leads until they can be further categorized.
-3.2.	Monitoring Leads. The contact worklist identifies HSSP applicants, interviewees, and contains names of applicants completing the AFROTC admissions process; managing it properly will ensure success and an efficient process.
-3.2.1.	ROs and Gold Bar recruiters (GBR) will update the contact worklist on at least a weekly basis to maintain accuracy. Keeping this information up-to-date will provide an accurate tracking of the AFROTC recruiting pipeline and allow other personnel to continue the recruiting process at any time if necessary.
-3.2.2.	When a GBR enters in a lead, he/she will assign that lead to their own detachment; he/she will also assign that contact to themselves by using the “Gold Bar Assigned” drop-down menu. This will aid in de-conflicting leads entered by GBRs and ROs at the same detachment. GBRs can also assign a lead to a different detachment worklist and GBR if a lead expresses specific interest in another school.
-3.2.3.	All correspondence with leads will be tracked within WINGS for record-keeping, lead management, and recruiter effectiveness purposes.
+### Overview
+Upon completion of a recruiting opportunity, ROs should follow-up with leads and influencers. WINGS is the AFROTC customer relationship management system and facilitates lead management; therefore, all AFROTC recruiters must enter their leads into WINGS.  
 
-Figures 3.1. to 3.5. – Entering a lead or influencer into WINGS 
+### Guidance and Expectations
+Every lead’s contact information must be entered into and managed via WINGS. ROs may maintain a running spreadsheet with contacts and leads or an email organizational system but are required to input data into WINGS weekly. To enter contact information into WINGS, after logging in, go to Recruiting/Admissions  Contact Search, enter data into at least one field (last name works best), and check the box next to the Submit button. If the lead or influencer is already in the system, click their last name to edit their information. If the lead or influencer does not have an entry in the system, click Create New (See Figures 3.1. – 3.3.). Enter all applicable information and click Save. Initial contact options are as follows:
+1. Blue Card – Postcards that leads fill out at events and mail in.
+2. High School Visit/Presentation – A RO or Gold Bar visit to a high school.
+3. High School College Fair – Leads gained from high school hosted college fairs.
+4. AFJROTC – Leads interested based on AFJROTC participation.
+5. College/Job Fair – Leads generated from college or job fairs.
+6. Air Show – Leads generated from an air show.
+7. Community Event – Leads generated from local events.
+8. Cold Call – Leads called the National Call Center, RDA, or detachment.
+9. Direct Mail – Leads generated in response to direct mail campaigns.
+10. Online AFROTC Application – Lead submitted a HSSP or admissions application.
+11. AFROTC.com – Leads generated from visiting the AFROTC website.
+12. Detachment Website – Leads contacted detachment via the detachment’s website.
+13. Direct Leads Database – Leads transferred from Department of Defense (DoD) database.
+14. Scholarship Presentation – Leads generated from seeing an HSSP presentation.
+15. AFROTC Cadet Referral – Leads heard about AFROTC from a cadet.
+
+### Managing Leads
+Once a lead’s contact information has been documented in WINGS, they need to be classified to identify their progression in the recruiting process. Classifying leads will help you focus on encouraging the lead to take the next step in the recruiting process and allows you to appropriately manage your lead pipeline to determine when you need to invest in more prospecting/lead generating activities. Additionally, Headquarters AFROTC Recruiting Branch (AFROTC/RRR) will use this information to gauge and credit recruiting efforts nationwide.
+
+### Classification Categories
+Leads will be classified based on the following categories:
+- **Category 0 – Disqualified/No Interest.** Place a contact in this status if they have been disqualified, are no longer interested, or it has been determined the contact should be abandoned due to lack of response or willingness to commit. This classification removes the contact from your worklist.
+- **Category 1 – Initial Contact.** Place a lead in this status after the first time the RO contacts the individual after collecting the lead’s information. Initial contact must occur within one week of receiving the lead’s information.
+- **Category 2 – Follow-up Contact.** Place a lead in this status if the individual responds to initial contact and continues dialogue. Lead will remain in this status until a committed action is taken or the lead is disqualified or abandoned.
+- **Category 3 – Committed Applicant.** Place a lead in this status if the individual has applied to join AFROTC or applied for HSSP. Once this lead is gained as a cadet, the lead is removed from all contact worklists.
+- **Cadet.** Place a lead in this status once they have enrolled in AFROTC classes or accepted a HSSP scholarship. Once this lead is gained as a cadet by the detachment, the lead is removed from all contact worklists.
+- **Influencer.** Category can be used to assist with tracking/engaging key influencers in a recruiter’s AOR.
+- **TBD – To be determined.** This is the status assigned to all new leads until they can be further categorized.
+
+### Monitoring Leads
+The contact worklist identifies HSSP applicants, interviewees, and contains names of applicants completing the AFROTC admissions process; managing it properly will ensure success and an efficient process.
+
+ROs and Gold Bar recruiters (GBR) will update the contact worklist on at least a weekly basis to maintain accuracy. Keeping this information up-to-date will provide an accurate tracking of the AFROTC recruiting pipeline and allow other personnel to continue the recruiting process at any time if necessary.
+
+When a GBR enters in a lead, he/she will assign that lead to their own detachment; he/she will also assign that contact to themselves by using the “Gold Bar Assigned” drop-down menu. This will aid in de-conflicting leads entered by GBRs and ROs at the same detachment. GBRs can also assign a lead to a different detachment worklist and GBR if a lead expresses specific interest in another school.
+
+All correspondence with leads will be tracked within WINGS for record-keeping, lead management, and recruiter effectiveness purposes.
+
+### Entering a lead or influencer into WINGS 
  
 Figure 3.1. – Select WINGS module
  
@@ -173,7 +218,6 @@ Figure 3.11. – App ID and Status moved next to Contact Status
  
 Figure 3.12. – Use the Contact Worklist to track correspondence with leads
  
-
 ## CHAPTER 4 – MARKETING
 4.1.	Overview. ROs are responsible for AFROTC marketing in their AOR. This responsibility consists of procuring and distributing AFROTC material, developing and distributing detachment-specific advertising, and the planning and execution of center of influence (COI) events.
 4.2.	Resources. ROs will plan, manage, and submit marketing requests on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Marketing Request Form. ROs can use the form to order AFROTC special promotional items (SPI) and detachment-specific advertising and request approval for COI events.

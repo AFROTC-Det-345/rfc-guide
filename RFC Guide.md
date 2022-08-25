@@ -7,32 +7,74 @@ This guide is designed to familiarize Air Force Reserve Officer Training Corps (
 Detachment-Level Recruiting. ROs are an integral part of the detachment dynamics. They manage detachment activities to recruit in-college, high school, and enlisted members from the local area. Recruiting emphasis generally shifts between these markets based on the time of year with scholarship deadlines, college orientation, and class registration schedules. Detachment cadets are ROs’ most valuable recruiting tools. The cadets bring energy and charisma to recruiting events while also relating closely to candidates because they were most recently in the same position before joining AFROTC.
 
 ## CHAPTER 2 – RECRUITING PLAN
-2.1.	Recruiting Plan. Recruiting plans provide a source of continuity to identify detachment recruiting objectives, available markets, and a list of recruiting events. ROs must review previous years’ recruiting plans to analyze strengths, weaknesses, and opportunities for the purpose of setting future goals. At a minimum, the recruiting plan will include the following items:
-2.1.1.	Record of Review. Recruiting plans must be approved by the RO and detachment commander.
-2.1.2.	Table of Contents.
-2.1.3.	Summary.
-2.1.3.1.  General Summary of Detachment Recruiting Environment. List all of the cross-towns for the university and the general environment for recruiting.
-2.1.3.2.  Area of Responsibility (AOR) Map. This map identifies where the detachment RO is responsible for the high school scholarship program (HSSP) interviews and presentations while identifying all potential market areas.
-2.1.3.3.  Five-Year History of Officer Production. List, by fiscal year, the numbers of commissioned officers produced by the detachment over the last five years.
-2.1.3.4. Summary of Previous Recruiting Plan Results. The summary must include after action report (AAR) annual results, HSSP direct results, enrollment increase, and program guidance Letter (PGL) impact.
-2.1.3.5.  Recruiting Successes & Challenges. ROs should be honest in this assessment and take time to examine previous successes and failures to maximize future results. This requires realistic measures of success that are set prior to each event.
-2.1.4.	Recruiting Objectives. Specific production numbers are at the discretion of the detachment, and should be realistic and representative of the potential target market (e.g., setting diversity goals for the detachment that are commiserate with the university’s demographics.)
-2.1.5.	Target Market. ROs should primarily focus their efforts on their target market as listed below. Developing relationships with influencers (person or group that has the ability to influence the decision of a lead) will aid in creating a referral pipeline freeing up time to shift or expand efforts to other feeder schools, and/or nationally ranked high schools in the immediate vicinity. If you are recruiting outside the detachment target market, the RO must provide general AFROTC information rather than detachment-specific information. The RO target markets are as follows:
-2.1.5.1. Tier 1:  Host or crosstown schools, top 10 host or crosstown feeder high schools, science, technology, engineering, and mathematics (STEM) focused schools, top 25 high schools in area (reference US News and World Report).
-2.1.5.1.1. Top 10 Feeder High Schools. Feeder high schools are determined by your host and cross-town schools. These are not the top 10 feeder high schools into the detachment but into the universities your detachment serves. In most cases, cadets choose the institution first and the detachment by default.
-2.1.5.1.2. Tier 2:  Other top 100 high schools (reference US News and World Report) and Air Force Junior Reserve Officer Training Corps (AFJROTC) units.
-2.1.5.1.3. Tier 3:  Other top ranked high schools within a 50-mile radius.
-2.1.6. Time-Phased List of Events (TPLE). Provides a detailed catalog of the recruiting events that ROs will accomplish in order to reach their target markets. The TPLE should cover the time period from 1 July to 30 June and should be recorded in the AAR found in Teams under ROTC Recruiting Branch-ROs Det Cadre-Plans & AARs ROs All Regions. Include events at the host and cross-town schools, feeder high schools, and points of contact for each. When updating the plan, indicate if an event is worth holding again next year and note any specific materials or items needed for the event. These notes should be clear, concise, and easily understood by the next RO. The TPLE is a living document that can be adjusted or updated to meet the recruiting plan objectives.
-2.1.7. Points of Contact. The plan should include a list of key campus contacts such as: admissions office, financial aid office, orientation coordinators, marketing departments, department chairs for STEM majors, nursing, high demand foreign languages, and the guidance counselors for feeder high schools. The plan must contain the contact info for the other United States Air Force (USAF) recruiting assets including, United States Air Force Academy (USAFA) Admissions Liaison Officers (ALO), local AFJROTC detachments, local Air Force Recruiting Service (AFRS) recruiter, and Air Force Reserve Component (ARC) recruiters operating in the RO’s AOR.
-2.2.	Deadlines. A biennial recruiting plan must be submitted to the Det/CC for approval. Detachments are no longer required to submit their recruiting plans to HQ. The recruiting plan is a living document and should be updated as necessary.
-2.3.	Resources. There are a variety of resources ROs can utilize to improve the recruiting climate in their AOR.
-2.3.1. Joint Advertising, Market Research, and Studies (JAMRS) reports can give ROs a better understanding of the recruiting market. ROs can establish a JAMRS account at http://dmren.org/app/login?next=/.
-2.3.2. University demographics are a great resource for ROs to gauge the diversity of their detachment as it should be on par with the university’s demographics. If not, improving diversity should be a recruiting plan objective as the market clearly offers the means to support a more diverse cadet corps.
-2.3.3. Some universities will poll inbound students for AFROTC interest in their entrance surveys. These rosters are a valuable resource that puts you in contact with potential applicants. If the university does not currently poll incoming students on their military interest, ask if they would be willing to request this information.
-2.3.4. Request a Solomon Amendment Report from the university registrar’s office, which can provide rosters with contact information on potential applicants. Information can include telephone, age, date of birth, email address, academic major, etc. The 1996 Solomon Amendment is the popular name of Title 10 United States Code § 983, a United States federal law that allows the Secretary of Defense to deny federal grants to institutions of higher education if they prohibit or prevent military recruitment, including AFROTC, on campus.
-2.3.5. If the university has a listing of student organizations, you may be able to identify groups to engage with that are targeted by the National Recruiting Strategy (e.g. STEM, diversity, etc.). 
-2.4.  Recruiting Plan Examples and Checklist. Recruiting plan examples are provided on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Files-Example Recruiting Plans. The recruiting plan  checklist is provided on Teams under ROTC-Recruiting Branch (RRR)-General-Files-RO Training, Continuity, Guides, and Templates-Recruiting Plans
-2.5.  Tips and Recommendations in the Execution of the Recruiting Plan.
+Recruiting Plan. Recruiting plans provide a source of continuity to identify detachment recruiting objectives, available markets, and a list of recruiting events. ROs must review previous years’ recruiting plans to analyze strengths, weaknesses, and opportunities for the purpose of setting future goals. At a minimum, the recruiting plan will include the following items:
+- Record of Review
+- Table of Contents
+- Summary
+  - AOR Map
+  - Five-Year History 
+  - Summary of Previous Recruiting Plan Results  
+  - Recruiting Successes and Challenges  
+- Recruiting Objectives  
+- Target Market
+- Time-Phased List of Events (TPLE)
+- Points of Contact
+
+### Record of Review 
+Recruiting plans must be approved by the RO and detachment commander.
+
+### Table of Contents
+
+### Summary
+#### General Summary of Detachment Recruiting Environment
+List all of the cross-towns for the university and the general environment for recruiting.
+
+#### Area of Responsibility (AOR) Map
+This map identifies where the detachment RO is responsible for the high school scholarship program (HSSP) interviews and presentations while identifying all potential market areas.
+
+#### Five-Year History of Officer Production
+List, by fiscal year, the numbers of commissioned officers produced by the detachment over the last five years.
+
+#### Summary of Previous Recruiting Plan Results
+The summary must include after action report (AAR) annual results, HSSP direct results, enrollment increase, and program guidance Letter (PGL) impact.
+
+#### Recruiting Successes & Challenges
+ROs should be honest in this assessment and take time to examine previous successes and failures to maximize future results. This requires realistic measures of success that are set prior to each event.
+
+#### Recruiting Objectives
+Specific production numbers are at the discretion of the detachment, and should be realistic and representative of the potential target market (e.g., setting diversity goals for the detachment that are commiserate with the university’s demographics.)
+
+#### Target Market
+ROs should primarily focus their efforts on their target market as listed below. Developing relationships with influencers (person or group that has the ability to influence the decision of a lead) will aid in creating a referral pipeline freeing up time to shift or expand efforts to other feeder schools, and/or nationally ranked high schools in the immediate vicinity. If you are recruiting outside the detachment target market, the RO must provide general AFROTC information rather than detachment-specific information. The RO target markets are as follows:
+  - Tier 1: Host or crosstown schools, top 10 host or crosstown feeder high schools, science, technology, engineering, and mathematics (STEM) focused schools, top 25 high schools in area (reference US News and World Report). Top 10 Feeder High Schools. Feeder high schools are determined by your host and cross-town schools. These are not the top 10 feeder high schools into the detachment but into the universities your detachment serves. In most cases, cadets choose the institution first and the detachment by default.
+  - Tier 2: Other top 100 high schools (reference US News and World Report) and Air Force Junior Reserve Officer Training Corps (AFJROTC) units.
+  - Tier 3: Other top ranked high schools within a 50-mile radius.
+
+### Time-Phased List of Events (TPLE)
+Provides a detailed catalog of the recruiting events that ROs will accomplish in order to reach their target markets. The TPLE should cover the time period from 1 July to 30 June and should be recorded in the AAR found in Teams under ROTC Recruiting Branch-ROs Det Cadre-Plans & AARs ROs All Regions. Include events at the host and cross-town schools, feeder high schools, and points of contact for each. When updating the plan, indicate if an event is worth holding again next year and note any specific materials or items needed for the event. These notes should be clear, concise, and easily understood by the next RO. The TPLE is a living document that can be adjusted or updated to meet the recruiting plan objectives.
+
+### Points of Contact
+The plan should include a list of key campus contacts such as: admissions office, financial aid office, orientation coordinators, marketing departments, department chairs for STEM majors, nursing, high demand foreign languages, and the guidance counselors for feeder high schools. The plan must contain the contact info for the other United States Air Force (USAF) recruiting assets including, United States Air Force Academy (USAFA) Admissions Liaison Officers (ALO), local AFJROTC detachments, local Air Force Recruiting Service (AFRS) recruiter, and Air Force Reserve Component (ARC) recruiters operating in the RO’s AOR.
+
+### Deadlines. 
+A biennial recruiting plan must be submitted to the Det/CC for approval. Detachments are no longer required to submit their recruiting plans to HQ. The recruiting plan is a living document and should be updated as necessary.
+
+### Resources
+There are a variety of resources ROs can utilize to improve the recruiting climate in their AOR.
+Joint Advertising, Market Research, and Studies (JAMRS) reports can give ROs a better understanding of the recruiting market. ROs can establish a JAMRS account at http://dmren.org/app/login?next=/.
+
+University demographics are a great resource for ROs to gauge the diversity of their detachment as it should be on par with the university’s demographics. If not, improving diversity should be a recruiting plan objective as the market clearly offers the means to support a more diverse cadet corps.
+
+Some universities will poll inbound students for AFROTC interest in their entrance surveys. These rosters are a valuable resource that puts you in contact with potential applicants. If the university does not currently poll incoming students on their military interest, ask if they would be willing to request this information.
+
+Request a Solomon Amendment Report from the university registrar’s office, which can provide rosters with contact information on potential applicants. Information can include telephone, age, date of birth, email address, academic major, etc. The 1996 Solomon Amendment is the popular name of Title 10 United States Code § 983, a United States federal law that allows the Secretary of Defense to deny federal grants to institutions of higher education if they prohibit or prevent military recruitment, including AFROTC, on campus.
+
+If the university has a listing of student organizations, you may be able to identify groups to engage with that are targeted by the National Recruiting Strategy (e.g. STEM, diversity, etc.). 
+
+### Recruiting Plan Examples and Checklist. 
+Recruiting plan examples are provided on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Files-Example Recruiting Plans. The recruiting plan  checklist is provided on Teams under ROTC-Recruiting Branch (RRR)-General-Files-RO Training, Continuity, Guides, and Templates-Recruiting Plans
+
+### Tips and Recommendations in the Execution of the Recruiting Plan
 2.5.1.	Phase 1. Planning.
 2.5.1.1. Verify all contact information from the previous year’s plan. Ensure you update the high schools’ info before they close for the school year to ensure you have accurate information to begin scheduling visits when academics resume.
 2.5.1.2. Be ambitious in planning, put a lot of events on the calendar, so if you miss some, it will not impact your production goals.
@@ -109,30 +151,23 @@ Figure 3.1. – Select WINGS module
  
 Figure 3.2. – Select Recruiting / Admissions module
  
-Figure 3.3. – Select Contact Search and enter lead 
-information; check box if entering a new lead
+Figure 3.3. – Select Contact Search and enter lead information; check box if entering a new lead
  
-Figure 3.4. – Verify that there is not already an entry based on 
-other information provided, if new entry, select Create New
+Figure 3.4. – Verify that there is not already an entry based on other information provided, if new entry, select Create New
  
-Figure 3.5. – When entering lead info, select Initial Contact Method, 
-Det assigned and, if applicable, Gold Bar assigned
+Figure 3.5. – When entering lead info, select Initial Contact Method, Det assigned and, if applicable, Gold Bar assigned
 
 Figures 3.6. to 3.12. – Managing Contact Worklist
  
- Figure 3.6. – View Contact Worklist, search by 
-Det number or organizational ID
+Figure 3.6. – View Contact Worklist, search by Det number or organizational ID
  
-Figure 3.7. – Contact Worklist; sort by contact status, 
-HSSP application status and special programs
+Figure 3.7. – Contact Worklist; sort by contact status, HSSP application status and special programs
  
 Figure 3.8. – Click to display all fields for leads
  
 Figure 3.9. – Personalize Contact Worklist
  
-Figure 3.10. – App ID and Status show HSSP application date 
-and status; use the up and down arrows to move where 
-each field is displayed in the contact worklist
+Figure 3.10. – App ID and Status show HSSP application date and status; use the up and down arrows to move where each field is displayed in the contact worklist
  
 Figure 3.11. – App ID and Status moved next to Contact Status
  
@@ -235,13 +270,17 @@ Objective: Capitalize on university’s shadow day by creating a separate AFROTC
 Comments: This event is our single largest event with support from the university admissions office and student center. Historically this event reaches a vast majority of our following year freshmen.
 How will the attendees receive information about AFROTC? The RO and cadet wing commander will provide a presentation, and we will offer one-on-one time with cadre and current cadets for a question and answer session (Q&A).
 Civilian Attendance: 170 (Leads: 60, Influencers: 110); Military Attendance: 7
----------------------------------------------------------------------------------------------------------------------------
+
+---
+
 Example 2 – University Key Faculty Members Luncheon.
 How will funding be used? Provide a lunch (Chick-fil-A nuggets, fries, and drinks) for university admissions office, guidance counselors and key department faculty members (Engineering, Math, Aviation, Nursing, Foreign Language). We blocked 45 minutes after the admissions office staff meeting to present a formal briefing, eat lunch, and answer questions.
 Objective: Explain the AFROTC program to key university personnel, so they have a better understanding of the program, can inform students about AFROTC opportunities, and can direct qualified students to the detachment.
 How will the attendees receive information about AFROTC? The detachment commander will give a presentation in the admissions conference room, we will provide brochures and have a POC cadet and the RO available for a Q&A.
 Civilian Attendance: 15 (Leads: 0, Influencers: 15); Military Attendance: 3
----------------------------------------------------------------------------------------------------------------------------
+
+---
+
 Example 3 – Engineering Club Meeting.
 How will funding be used? Purchase pizza and drinks for members of the Engineering and Technology Club at one of our cross-town universities. Members will receive a formal AFROTC presentation at the beginning of one of their bi-monthly meetings.
 Objective: Our goal is to increase AFROTC awareness and visibility amongst highly qualified students at one of our underrepresented cross-towns. We received a list of academically qualified freshmen in the engineering department from the registrar’s office and have discovered that most of them are members of the Engineering and Technology Club. After the president opens the meeting, we will explain the AFROTC program, in-college scholarship program (ICSP) opportunities, and USAF job opportunities.
@@ -306,7 +345,7 @@ Congratulations on being assigned as your new Detachment Recruiting Officer! Thi
 - [ ] Read National Recruiting Strategy
 - [ ] Read Recruiting Officer Guide
 - [ ] Read AETCI 36-2909 Recruiting, Education, & Training Standards
-- [ ] Read AFROTCI 36-2011
+- [ ] Read AFROTCI 36-2011 Vol 3, *Cadet Operations*
 
 ## Familiarize yourself with the Intranet & WINGS
 - [ ] Intranet

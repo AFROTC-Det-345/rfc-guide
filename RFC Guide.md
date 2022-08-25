@@ -311,7 +311,7 @@ Ceremony information to include location, presenter information, and notes shoul
 
 ### Resources
 A presentation certificate can be found in WINGS. 
-- Click HSSP>Individual Presentation Info>enter scholarship recipient’s name>Click Print Certificate at the bottom of the screen.
+- Click HSSP > Individual Presentation Info > enter scholarship recipient’s name > Click Print Certificate at the bottom of the screen.
 
 <!-- ~~A sample script can be found on the Intranet. Click RegistrarBoards & Scholarships Sample HSSP Presentation.~~ Intranet is no longer used. -->
 

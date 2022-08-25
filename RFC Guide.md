@@ -300,12 +300,20 @@ Figure 3.12. – Use the Contact Worklist to track correspondence with leads
 5.6.2. Day in the life of a cadet and detachment videos are great recruiting tools. A few examples can be found on the RRR Intranet site.
 
 ## CHAPTER 6 – HIGH SCHOOL SCHOLARSHIP PRESENTATIONS
-6.1.	Overview. One of the most worthwhile and effective recruiting opportunities is the presentation of high school scholarships at high schools in your local area. These presentations typically reach a large target audience of influencers and future prospects. Detachment personnel should make every effort to support these presentations. AFROTC scholarship presenters must wear service dress.
-6.2.	Guidance. RDAs will manage the high school presentation process within their regions. If detachment cadre are unable to support a request, ROs should coordinate with local AFJROTC detachment personnel, ALOs, and local officer and enlisted recruiters to see if they are available to support the request. Scholarship presentations should be scheduled and documented in the HSSP presentations section in WINGS.
-6.3.	Process. Ceremony information to include location, presenter information, and notes should be entered into WINGS. In WINGS, Click HSSPIndividual Presentation Infoenter scholarship recipient’s nameenter applicable information. Please see attachment 4 for more information.
-6.4.	Resources.
-6.4.1. A presentation certificate can be found in WINGS. Click HSSPIndividual Presentation Infoenter scholarship recipient’s nameClick Print Certificate at the bottom of the screen.
-6.4.2. A sample script can be found on the Intranet. Click RegistrarBoards & Scholarships Sample HSSP Presentation.
+### Overview
+One of the most worthwhile and effective recruiting opportunities is the presentation of high school scholarships at high schools in your local area. These presentations typically reach a large target audience of influencers and future prospects. Detachment personnel should make every effort to support these presentations. AFROTC scholarship presenters must wear service dress.
+
+### Guidance
+RDAs will manage the high school presentation process within their regions. If detachment cadre are unable to support a request, ROs should coordinate with local AFJROTC detachment personnel, ALOs, and local officer and enlisted recruiters to see if they are available to support the request. Scholarship presentations should be scheduled and documented in the HSSP presentations section in WINGS.
+
+### Process
+Ceremony information to include location, presenter information, and notes should be entered into WINGS. In WINGS, Click HSSPIndividual Presentation Infoenter scholarship recipient’s nameenter applicable information. Please see attachment 4 for more information.
+
+### Resources
+A presentation certificate can be found in WINGS. 
+- Click HSSP>Individual Presentation Info>enter scholarship recipient’s name>Click Print Certificate at the bottom of the screen.
+
+<!-- ~~A sample script can be found on the Intranet. Click RegistrarBoards & Scholarships Sample HSSP Presentation.~~ Intranet is no longer used. -->
 
 ## ATTACHMENT 1 - COI EVENT REQUEST EXAMPLES 
 Example 1 – High School Shadow Day Lunch Presentation.

@@ -1,8 +1,10 @@
 # RFC Guide
 
+## OVERVIEW
+This guide is designed to familiarize Air Force Reserve Officer Training Corps (AFROTC) recruiting officers (RO) with detachment-level recruiting responsibilities and processes. It also provides tips and recommendations from the field to assist ROs in their duties. 
+
 ## CHAPTER 1 – RECRUITING PROGRAM
-1.1.	Overview. This guide is designed to familiarize Air Force Reserve Officer Training Corps (AFROTC) recruiting officers (RO) with detachment-level recruiting responsibilities and processes. It also provides tips and recommendations from the field to assist ROs in their duties. 
-1.2.	Detachment-Level Recruiting. ROs are an integral part of the detachment dynamics. They manage detachment activities to recruit in-college, high school, and enlisted members from the local area. Recruiting emphasis generally shifts between these markets based on the time of year with scholarship deadlines, college orientation, and class registration schedules. Detachment cadets are ROs’ most valuable recruiting tools. The cadets bring energy and charisma to recruiting events while also relating closely to candidates because they were most recently in the same position before joining AFROTC.
+Detachment-Level Recruiting. ROs are an integral part of the detachment dynamics. They manage detachment activities to recruit in-college, high school, and enlisted members from the local area. Recruiting emphasis generally shifts between these markets based on the time of year with scholarship deadlines, college orientation, and class registration schedules. Detachment cadets are ROs’ most valuable recruiting tools. The cadets bring energy and charisma to recruiting events while also relating closely to candidates because they were most recently in the same position before joining AFROTC.
 
 ## CHAPTER 2 – RECRUITING PLAN
 2.1.	Recruiting Plan. Recruiting plans provide a source of continuity to identify detachment recruiting objectives, available markets, and a list of recruiting events. ROs must review previous years’ recruiting plans to analyze strengths, weaknesses, and opportunities for the purpose of setting future goals. At a minimum, the recruiting plan will include the following items:
@@ -100,6 +102,7 @@
 3.2.1.	ROs and Gold Bar recruiters (GBR) will update the contact worklist on at least a weekly basis to maintain accuracy. Keeping this information up-to-date will provide an accurate tracking of the AFROTC recruiting pipeline and allow other personnel to continue the recruiting process at any time if necessary.
 3.2.2.	When a GBR enters in a lead, he/she will assign that lead to their own detachment; he/she will also assign that contact to themselves by using the “Gold Bar Assigned” drop-down menu. This will aid in de-conflicting leads entered by GBRs and ROs at the same detachment. GBRs can also assign a lead to a different detachment worklist and GBR if a lead expresses specific interest in another school.
 3.2.3.	All correspondence with leads will be tracked within WINGS for record-keeping, lead management, and recruiter effectiveness purposes.
+
 Figures 3.1. to 3.5. – Entering a lead or influencer into WINGS 
  
 Figure 3.1. – Select WINGS module

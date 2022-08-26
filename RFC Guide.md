@@ -191,7 +191,8 @@ When a GBR enters in a lead, he/she will assign that lead to their own detachmen
 All correspondence with leads will be tracked within WINGS for record-keeping, lead management, and recruiter effectiveness purposes.
 
 ### Entering a lead or influencer into WINGS 
- 
+
+![Figure 3.1](images/Figure 3.1.png)
 Figure 3.1. – Select WINGS module
  
 Figure 3.2. – Select Recruiting / Admissions module

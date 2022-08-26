@@ -273,31 +273,54 @@ Figure 3.12. – Use the Contact Worklist to track correspondence with leads
 4.6.9. Work with the local school districts to find out when they are training their guidance counselors prior to the start of school and arrange a COI event there. University admissions officers, university freshman orientation personnel, parent-based groups (high school parent teacher association or organization (PTA/PTO)), Boy Scout and Girl Scout leadership training events may provide a great COI opportunity.
 
 ## CHAPTER 5 – DETACHMENT WEBSITE AND SOCIAL MEDIA
-5.1.	Overview. The easiest means of advertising is through a detachment website and social media. ROs should make every effort possible to establish and maintain a detachment-specific website on their host university server.
-5.2.	Guidance. Detachments must abide by the list of required items for detachment websites and ensure compliance with applicable restrictions including but not limited to AFROTC Instruction (AFROTCI) 36-2011, Air Force Instruction (AFI) 33-332, AFI 35-107, DoD 5400.78R/AR Supplement 1 and USAF Social Media Guide (http://www.af.mil/AF-Sites/Social-Media-Sites/). The Air Force (AF) Form 2519 (website checklist) can be found on Teams ROTC-Recruiting Branch (RRR)- ROTC-Recruiting Branch (RRR)-General-Files-RO Training, Continuity, Guides, and Templates-Website Review Checklist.
-5.3.	Approval Process. Approval for detachment websites by Air University Public Affairs (AU/PA) and AFROTC/RRR is required annually. All changes to the detachment website within the approved annual cycle, must be resubmitted for approval. To receive approval, detachment cadre may submit a completed AF Form 2519 to AU/PA by emailing Mr. John Coyle at john.coyle.4@us.af.mil. Upon approval by AU/PA, submit the completed form to AFROTC/RRR by emailing Ms. Linda Colvin at linda.colvin@us.af.mil. Retain a copy of the approved AF Form 2519 and AFROTC/RRR approval email in your continuity file.
-5.4.	Requirements. All AFROTC detachment websites must include the following items:
-5.4.1. USAF Symbol.
-5.4.1.1.  Detachments will prominently display the USAF and Space Force symbol on each website homepage. The symbol must maintain original proportions (not stretched vertically or horizontally). The symbol must also maintain separation from other elements on the page and be clearly distinguishable from the background.
-5.4.1.2.  Additional guidance concerning the USAF and Space Force symbol is available at http://www.trademark.af.mil/.
-5.4.2. General Detachment Information.
-5.4.2.1.  Detachment websites must contain accurate and information and links. Each top-level page must contain the detachment’s name and logo, telephone number, and an organizational e-mail or feedback form.
-5.4.2.2.  Cadet and alumni pages must be password protected. Pages should not contain FOUO information (information exempt from release under the Freedom of Information Act), critical information, operational security information (OPSEC), or sensitive mission data that by itself is unclassified but when combined with other available data may reveal classified information.
-5.4.3. Cadre Biographies.
-5.4.3.1.  The only biographies/names posted on the site should be those of Air Force officers, enlisted and staff civilians who interact with the general public for recruiting purposes. No biographies or lists of cadets may be posted.
-5.4.3.2.  No personally identifiable information (PII), including personal e-mails, phone numbers, SSNs, birth dates, family members’ names may appear on any detachment website. One e-mail address for legitimate inquiries or page maintenance is acceptable but it must be organizational/generic.
-5.4.4. Links to Outside Sources.
-5.4.4.1.  The detachment homepage must contain links to www.af.mil, www.spaceforce.mil, www.airforce.com, the Holm Center, (www.airuniversity.af.edu/Holm-Center), AFROTC Recruiting, (www.afrotc.com) and the AF FOIA site, (www.compliance.af.mil). As the website must reside on the host institution webserver, links to related host institution pages (excluding the university donation page) are acceptable.
-5.4.4.2.  Detachment pages should not be copies of other sources on the internet and should not link to outside sources or content not affiliated with the host institution or functional mission.
-5.4.4.3.  No detachment website should contain links to any solicitation for donations. Pages may not be used to promote personal/commercial gain and must not endorse commercial products or services.
-5.4.5.  Graphics, Pictures, and Media Content.
-5.4.5.1.  Images and amplifying content must be appropriate and professional. Detachment cadre are responsible for certifying all media content included on the website.
-5.4.5.2.  Content protected by copyright, including music accompanying videos, is not authorized. Professional photos may only be included with a written release from the owner.
-5.4.5.3.  All videos must include transcripts or closed captioning to comply with Title 10 United States Code § 508 usability requirements for people with disabilities.
-5.5.	Social Media. All detachments with social media accounts must ensure the cadre is approving all content before it is posted. Likewise, the ability to post needs to be controlled and delegated to one individual for accountability and security purposes to include protecting login and password information.
-5.6.	Tips and Recommendations.
-5.6.1. Maximize the use of social media (Facebook, Twitter, Instagram, YouTube, etc.) to communicate scholarships, diversity, and opportunities that AFROTC provides. Please tag the main AFROTC Facebook and Instagram pages when you post on your detachment page or use #afrotc. The Facebook name is Air Force ROTC and the Instagram name is @usafrotc.
-5.6.2. Day in the life of a cadet and detachment videos are great recruiting tools. A few examples can be found on the RRR Intranet site.
+### Overview. 
+The easiest means of advertising is through a detachment website and social media. ROs should make every effort possible to establish and maintain a detachment-specific website on their host university server.
+
+### Guidance
+Detachments must abide by the list of required items for detachment websites and ensure compliance with applicable restrictions including but not limited to AFROTC Instruction (AFROTCI) 36-2011, Air Force Instruction (AFI) 33-332, AFI 35-107, DoD 5400.78R/AR Supplement 1 and USAF Social Media Guide (http://www.af.mil/AF-Sites/Social-Media-Sites/). The Air Force (AF) Form 2519 (website checklist) can be found on Teams ROTC-Recruiting Branch (RRR)- ROTC-Recruiting Branch (RRR)-General-Files-RO Training, Continuity, Guides, and Templates-Website Review Checklist.
+
+### Approval Process
+Approval for detachment websites by Air University Public Affairs (AU/PA) and AFROTC/RRR is required annually. All changes to the detachment website within the approved annual cycle, must be resubmitted for approval. To receive approval, detachment cadre may submit a completed AF Form 2519 to AU/PA by emailing Mr. John Coyle at john.coyle.4@us.af.mil. Upon approval by AU/PA, submit the completed form to AFROTC/RRR by emailing Ms. Linda Colvin at linda.colvin@us.af.mil. Retain a copy of the approved AF Form 2519 and AFROTC/RRR approval email in your continuity file.
+
+### Requirements. 
+All AFROTC detachment websites must include the following items:
+
+#### USAF Symbol
+Detachments will prominently display the USAF and Space Force symbol on each website homepage. The symbol must maintain original proportions (not stretched vertically or horizontally). The symbol must also maintain separation from other elements on the page and be clearly distinguishable from the background.
+
+Additional guidance concerning the USAF and Space Force symbol is available at http://www.trademark.af.mil/.
+
+#### General Detachment Information
+Detachment websites must contain accurate and information and links. Each top-level page must contain the detachment’s name and logo, telephone number, and an organizational e-mail or feedback form.
+
+Cadet and alumni pages must be password protected. Pages should not contain FOUO information (information exempt from release under the Freedom of Information Act), critical information, operational security information (OPSEC), or sensitive mission data that by itself is unclassified but when combined with other available data may reveal classified information.
+
+#### Cadre Biographies
+The only biographies/names posted on the site should be those of Air Force officers, enlisted and staff civilians who interact with the general public for recruiting purposes. No biographies or lists of cadets may be posted.
+
+No personally identifiable information (PII), including personal e-mails, phone numbers, SSNs, birth dates, family members’ names may appear on any detachment website. One e-mail address for legitimate inquiries or page maintenance is acceptable but it must be organizational/generic.
+
+#### Links to Outside Sources.
+The detachment homepage must contain links to www.af.mil, www.spaceforce.mil, www.airforce.com, the Holm Center, (www.airuniversity.af.edu/Holm-Center), AFROTC Recruiting, (www.afrotc.com) and the AF FOIA site, (www.compliance.af.mil). As the website must reside on the host institution webserver, links to related host institution pages (excluding the university donation page) are acceptable.
+
+Detachment pages should not be copies of other sources on the internet and should not link to outside sources or content not affiliated with the host institution or functional mission.
+
+No detachment website should contain links to any solicitation for donations. Pages may not be used to promote personal/commercial gain and must not endorse commercial products or services.
+
+#### Graphics, Pictures, and Media Content.
+Images and amplifying content must be appropriate and professional. Detachment cadre are responsible for certifying all media content included on the website.
+
+Content protected by copyright, including music accompanying videos, is not authorized. Professional photos may only be included with a written release from the owner.
+
+All videos must include transcripts or closed captioning to comply with Title 10 United States Code § 508 usability requirements for people with disabilities.
+
+#### Social Media
+All detachments with social media accounts must ensure the cadre is approving all content before it is posted. Likewise, the ability to post needs to be controlled and delegated to one individual for accountability and security purposes to include protecting login and password information.
+
+### Tips and Recommendations
+Maximize the use of social media (Facebook, Twitter, Instagram, YouTube, etc.) to communicate scholarships, diversity, and opportunities that AFROTC provides. Please tag the main AFROTC Facebook and Instagram pages when you post on your detachment page or use #afrotc. The Facebook name is Air Force ROTC and the Instagram name is @usafrotc.
+
+Day in the life of a cadet and detachment videos are great recruiting tools. A few examples can be found on the RRR Intranet site.
 
 ## CHAPTER 6 – HIGH SCHOOL SCHOLARSHIP PRESENTATIONS
 ### Overview
@@ -313,7 +336,7 @@ Ceremony information to include location, presenter information, and notes shoul
 A presentation certificate can be found in WINGS. 
 - Click HSSP > Individual Presentation Info > enter scholarship recipient’s name > Click Print Certificate at the bottom of the screen.
 
-<!-- ~~A sample script can be found on the Intranet. Click RegistrarBoards & Scholarships Sample HSSP Presentation.~~ Intranet is no longer used. -->
+<!-- ~~A sample script can be found on the Intranet. Click RegistrarBoards & Scholarships Sample HSSP Presentation.~~ Intranet is no longer used for this purpose. -->
 
 ## ATTACHMENT 1 - COI EVENT REQUEST EXAMPLES 
 Example 1 – High School Shadow Day Lunch Presentation.

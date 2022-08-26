@@ -219,58 +219,106 @@ Figure 3.11. – App ID and Status moved next to Contact Status
 Figure 3.12. – Use the Contact Worklist to track correspondence with leads
  
 ## CHAPTER 4 – MARKETING
-4.1.	Overview. ROs are responsible for AFROTC marketing in their AOR. This responsibility consists of procuring and distributing AFROTC material, developing and distributing detachment-specific advertising, and the planning and execution of center of influence (COI) events.
-4.2.	Resources. ROs will plan, manage, and submit marketing requests on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Marketing Request Form. ROs can use the form to order AFROTC special promotional items (SPI) and detachment-specific advertising and request approval for COI events.
-4.3. Special Promotional Items. These items consist of generic AFROTC-produced marketing materials and brochures. Funding for SPI will be provided by AFROTC and may vary from year to year.
-4.4.  Detachment-Specific Advertising and Promotional (A&P) Items. ROs are responsible for developing, requesting approval from AFROTC/RRR, and distributing detachment specific advertising/marketing. Funding for local detachment advertising and promotional material will be provided by AFROTC and may vary from year to year. Once money is available and loaded to a specific account, the amount will be posted on Teams and announced via an Automated Reserve Officer Training Corps Messaging System (ARMS) message.
-4.4.1. Print media and multimedia management. All print media and multimedia must be approved by AFROTC/RRR annually. Creating a tracker to refer to when certain items are up for renewal will be very beneficial.
-4.4.2. A&P Funds Management. A&P funds are exclusively for attracting new recruits. They cannot be used to purchase items for current cadets or cadre (e.g. beautification of detachment, items focused on retention, etc).
-4.4.3. Use the following guidelines and restrictions to create or revise locally developed material.
-4.4.3.1. All locally developed advertisement/promotional materials must clearly display the AFROTC logo and contact information (e.g. local telephone number and/or detachment website). The USAF symbol must remain proportional when sizes change.
-4.4.3.2. Broadcast Media. Radio and television are very valuable when trying to reach a target market. Products are furnished by AFRS to AFROTC/RRR and can be distributed upon request by ROs to radio and television stations.
-4.4.3.2.1.	Public Service Announcement (PSA) Radio Spots. PSA radio spots can be ordered through AFRS (call commercial 210-565-0522). ROs can contact the radio station to request PSA airtime.
-4.4.3.2.2.	PSA television spots. PSA television spots cannot be purchased by AFROTC detachments. Each quarter, current generic USAF PSA products are produced by AFRS and sent directly to television stations throughout the country.
-4.4.3.2.3.	All detachment-specific broadcast media must be approved by HQ AFROTC/RRR prior to release.
-4.4.4.	To complete an advertising or promotional request, ROs will contact the vendor and arrange for services. Ensure the vendor does not perform work until authorized by AFROTC/RRR. Most states will exempt the federal government from paying taxes on purchases. Ask vendors to exempt the taxes. If the vendor states they will not exempt federal purchases from taxes, find another vendor that will exempt taxes.
-4.4.4.2.	The RO is responsible for ensuring the product will meet the needs of AFROTC. You must obtain a proof of the product before AFROTC/RRR purchases the product in quantity.
-4.4.4.3.	ROs will submit the request to purchase detachment-specific advertising and promotional items on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Marketing Request Form.
-4.4.5.	Resources. Here are a few vendors that ROs have found useful when purchasing detachment-specific advertising and promotional materials. No federal endorsement intended. The names of other similar vendors can be added upon request.
-4.4.5.2.	AirForceROTCShop – https://www.airforcerotcshop.com
-4.4.5.3.	Ad-Specialties & More, LLC – http://www.ad-specialties.com
-4.4.5.4.	AKD (Advertising Specialty Products) – http://promo.goakd.com/apparel.htm
-4.4.5.5.	Amsterdam – https://www.amsterdamprinting.com/, Phone: 800-833-6231
-4.4.5.6.	Brucelli – http://brucelli.com/, Phone: 800-443-4144
-4.4.5.7.	LeaderPromos – https://www.leaderpromos.com, Phone: 877-677-9988
-4.4.5.8.	Quality Logo Products – https://www.qualitylogoproducts.com
-4.5.  COI Events. ROs can enhance recruiting operations by hosting events designed to promote AFROTC opportunities to highly qualified leads and/or key influencers of highly qualified leads and/or applicants. AFROTC/RRR is the approval authority for all AFROTC funded COI events. Examples of COI event requests can be found in Attachment 1.
-4.5.1. Event Planning. Determine specific recruiting objectives for the event and create the appropriate invite list.
-4.5.1.1. Plan all activities at least 30 days before the event to allow enough time to overcome problems and to provide a professional event. Detachments must adhere to all end-of-fiscal-year funds obligation and execution deadlines.
-4.5.1.2. Request funding for the event through X-Net at least 15 days prior to the event. Approval or disapproval of the event will be posted via X-Net.
-4.5.1.3. Negotiate COI events only with vendors agreeing not to charge for no-shows. If a vendor will not agree to this, and the RO still believes this is the best offer, contact AFROTC/RRR for a waiver via X-Net.
-4.5.1.4. Once an approval is secured, HQ AFROTC/RRR will make payment for food, drinks, and gratuity via a government purchase card (GPC). If the vendor does not accept the GPC, make every effort to secure another vendor. If no other vendor is available, contact AFROTC/RRR for assistance.
-4.5.1.5. Complete the after-action portion of the COI request via X-Net no later than five duty days after the COI event. Any deviations from the original request must be annotated in the after-action report.
-4.5.2. COI Funds Management. COI funds are exclusively for consumable items (i.e. food and beverages excluding alcoholic beverages) and gratuity expenses. Complimentary alcoholic beverages cannot be, or appear to be, offered. COI funds cannot be used to pay for items such as plates, napkins, cups, plasticware, charcoal, skate rental, greens fees, etc. Title 10 United States Code § 520c specifies small meals and drinks at recruiting functions are permitted. Small meals are not sit down meals at a steak house, pasta restaurant, etc.
-4.5.3. There are only two categories of COI attendees:
-4.5.3.1. Lead – person eligible for AFROTC.
-4.5.3.2. Guest – person not eligible for AFROTC. These are most often people with direct influence over qualified students (e.g., counselors, instructors, school officials, parents/guardians).
-4.5.4. Events may not exceed $500 in total cost, $20 per guest as referenced in AFRS Instruction (AFRSI) 65-601.
-4.5.5. Waiver Process. Under certain circumstances, the standards established for COI events may not meet the needs of the event.
-4.5.5.1. Excessive cost waiver. At the discretion of the AFROTC/CC, COI events may exceed the $500 maximum cost. Waivers for these events must be pre-approved by the Det/CC prior to COI action officer approval. Failure to provide the Dec/CC approval will delay the waiver process.
-4.5.5.2. General waiver. All other waivers will be entered into X-Net and evaluated on a case-by-case basis.
-4.5.6. Attendance. An organized guest attendance roster must be used at COI events. Example rosters are provided on the RRR Intranet site. Collect name and contact information at a minimum. Personal information such as a social security number is not collected on this roster. When soliciting information subject to the Privacy Act of 1974 from leads, the following statement must be read, given, or shown to persons signing in: “We will be happy to provide you more information about USAF opportunities as authorized by Title 10 United States Code § 503 and governing directives for AFRS. The information solicited will be used to determine eligibility and to allow follow-up contact. The routine use of this information will be for USAF recruiting purposes only. Providing the information is voluntary; however, failure to provide sufficient information may prevent action on your inquiry.”
-4.5.6.1. At a maximum, you may only have one military member (cadre or cadet) for every three civilian leads or guests (i.e., if there are two cadre members and one cadet in attendance there should be nine leads or guests in attendance as well).
-4.5.6.2. Limit military personnel to those with a role in the COI event such as the guest speaker, appropriate escort ratios (3:1), Det/CC, or a military distinguished visitor (DV) (equivalent to a USAF colonel or higher).
-4.5.7.  AARs and WINGS updates. ROs must document follow-up actions concerning leads and influencers who attended a COI within five business days of the event. The AAR is entered electronically and is logged in Teams under ROTC Recruiting Branch-ROs Det Cadre-Plans & AARs ROs All Regions. ROs are responsible for entering the lead contact information into WINGS.
-4.6	 Tips and Recommendations from the Field.
-4.6.1.  Make sure you are in contact with AFROTC/RRR well in advance of deadlines when you request approval for flyers/handouts/locally produced advertising. The RRR office is small and handles requests from all AFROTC detachments.
-4.6.2. Know your university policy on “chalking,” literally drawing in the sidewalk with colored chalk, and the placement of campaign style yard signs. Some schools restrict when/where these things can be done but they are inexpensive ways to reach a large number of students in targeted locations, like next to the STEM library, coffee shops, or nursing college.
-4.6.3. Does your school allow the hanging of banners in high traffic areas, like student unions or dining facilities? If so, take advantage of such opportunities.
-4.6.4. Reach out to the marketing/advertising office on your host campus. A lot of them will make commercials and do advertising for the detachment for free. If you can get the school to fund the project, there are less restrictions on when and where the advertisement can be used.
-4.6.5. Think outside the box! Use advertising funds to purchase advertising space on parking meters during a football game (pay for parking and place advertising on the meters), work with university marketing department to create table tents for student centers or cafeterias, purchase advertisements for STEM dorms, etc.
-4.6.6. Purchase advertisements in key influencer, feeder high school, and local STEM organization publications.
-4.6.7. Focus your COI events on diversity, STEM, and influencers. Invite subject matter experts to attend your COI event. If you’re targeting STEM majors and don’t have a STEM officer at your detachment, ask another officer in your region or closest USAF unit to support your event. If you are targeting a minority market, ensure a minority cadre member is in attendance or invite one from the surrounding area. It is important for potential cadets to see people like themselves in the AFROTC program and already serving.
-4.6.8. Invite a guest speaker or person of significant influence (e.g. distinguished alumni) to give your COI personnel an idea of their future trajectory after completing the AFROTC program.
-4.6.9. Work with the local school districts to find out when they are training their guidance counselors prior to the start of school and arrange a COI event there. University admissions officers, university freshman orientation personnel, parent-based groups (high school parent teacher association or organization (PTA/PTO)), Boy Scout and Girl Scout leadership training events may provide a great COI opportunity.
+### Overview
+ROs are responsible for AFROTC marketing in their AOR. This responsibility consists of procuring and distributing AFROTC material, developing and distributing detachment-specific advertising, and the planning and execution of center of influence (COI) events.
+
+### Resources
+ROs will plan, manage, and submit marketing requests on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Marketing Request Form. ROs can use the form to order AFROTC special promotional items (SPI) and detachment-specific advertising and request approval for COI events.
+
+### Special Promotional Items
+These items consist of generic AFROTC-produced marketing materials and brochures. Funding for SPI will be provided by AFROTC and may vary from year to year.
+
+### Detachment-Specific Advertising and Promotional (A&P) Items
+ROs are responsible for developing, requesting approval from AFROTC/RRR, and distributing detachment specific advertising/marketing. Funding for local detachment advertising and promotional material will be provided by AFROTC and may vary from year to year. Once money is available and loaded to a specific account, the amount will be posted on Teams and announced via an Automated Reserve Officer Training Corps Messaging System (ARMS) message.
+
+Print media and multimedia management. All print media and multimedia must be approved by AFROTC/RRR annually. Creating a tracker to refer to when certain items are up for renewal will be very beneficial.
+
+A&P Funds Management. A&P funds are exclusively for attracting new recruits. They cannot be used to purchase items for current cadets or cadre (e.g. beautification of detachment, items focused on retention, etc).
+
+Use the following guidelines and restrictions to create or revise locally developed material.
+
+All locally developed advertisement/promotional materials must clearly display the AFROTC logo and contact information (e.g. local telephone number and/or detachment website). The USAF symbol must remain proportional when sizes change.
+
+Broadcast Media. Radio and television are very valuable when trying to reach a target market. Products are furnished by AFRS to AFROTC/RRR and can be distributed upon request by ROs to radio and television stations.
+
+Public Service Announcement (PSA) Radio Spots. PSA radio spots can be ordered through AFRS (call commercial 210-565-0522). ROs can contact the radio station to request PSA airtime.
+
+PSA television spots. PSA television spots cannot be purchased by AFROTC detachments. Each quarter, current generic USAF PSA products are produced by AFRS and sent directly to television stations throughout the country.
+
+All detachment-specific broadcast media must be approved by HQ AFROTC/RRR prior to release.
+
+To complete an advertising or promotional request, ROs will contact the vendor and arrange for services. Ensure the vendor does not perform work until authorized by AFROTC/RRR. Most states will exempt the federal government from paying taxes on purchases. Ask vendors to exempt the taxes. If the vendor states they will not exempt federal purchases from taxes, find another vendor that will exempt taxes.
+
+The RO is responsible for ensuring the product will meet the needs of AFROTC. You must obtain a proof of the product before AFROTC/RRR purchases the product in quantity.
+
+ROs will submit the request to purchase detachment-specific advertising and promotional items on Teams under ROTC-Recruiting Branch (RRR)-ROs Det Cadre-Marketing Request Form.
+
+### Resources
+Here are a few vendors that ROs have found useful when purchasing detachment-specific advertising and promotional materials. No federal endorsement intended. The names of other similar vendors can be added upon request.
+- AirForceROTCShop – https://www.airforcerotcshop.com
+- Ad-Specialties & More, LLC – http://www.ad-specialties.com
+- AKD (Advertising Specialty Products) – http://promo.goakd.com/apparel.htm
+- Amsterdam – https://www.amsterdamprinting.com/, Phone: 800-833-6231
+- Brucelli – http://brucelli.com/, Phone: 800-443-4144
+- LeaderPromos – https://www.leaderpromos.com, Phone: 877-677-9988
+- Quality Logo Products – https://www.qualitylogoproducts.com
+
+### COI Events
+ROs can enhance recruiting operations by hosting events designed to promote AFROTC opportunities to highly qualified leads and/or key influencers of highly qualified leads and/or applicants. AFROTC/RRR is the approval authority for all AFROTC funded COI events. Examples of COI event requests can be found in Attachment 1.
+
+#### Event Planning
+Determine specific recruiting objectives for the event and create the appropriate invite list.
+
+Plan all activities at least 30 days before the event to allow enough time to overcome problems and to provide a professional event. Detachments must adhere to all end-of-fiscal-year funds obligation and execution deadlines.
+
+Request funding for the event through X-Net at least 15 days prior to the event. Approval or disapproval of the event will be posted via X-Net.
+
+Negotiate COI events only with vendors agreeing not to charge for no-shows. If a vendor will not agree to this, and the RO still believes this is the best offer, contact AFROTC/RRR for a waiver via X-Net.
+
+Once an approval is secured, HQ AFROTC/RRR will make payment for food, drinks, and gratuity via a government purchase card (GPC). If the vendor does not accept the GPC, make every effort to secure another vendor. If no other vendor is available, contact AFROTC/RRR for assistance.
+
+Complete the after-action portion of the COI request via X-Net no later than five duty days after the COI event. Any deviations from the original request must be annotated in the after-action report.
+
+COI Funds Management. COI funds are exclusively for consumable items (i.e. food and beverages excluding alcoholic beverages) and gratuity expenses. Complimentary alcoholic beverages cannot be, or appear to be, offered. COI funds cannot be used to pay for items such as plates, napkins, cups, plasticware, charcoal, skate rental, greens fees, etc. Title 10 United States Code § 520c specifies small meals and drinks at recruiting functions are permitted. Small meals are not sit down meals at a steak house, pasta restaurant, etc.
+
+There are only two categories of COI attendees:
+- Lead – person eligible for AFROTC.
+- Guest – person not eligible for AFROTC. These are most often people with direct influence over qualified students (e.g., counselors, instructors, school officials, parents/guardians).
+
+Events may not exceed $500 in total cost, $20 per guest as referenced in AFRS Instruction (AFRSI) 65-601.
+
+Waiver Process. Under certain circumstances, the standards established for COI events may not meet the needs of the event.
+
+Excessive cost waiver. At the discretion of the AFROTC/CC, COI events may exceed the $500 maximum cost. Waivers for these events must be pre-approved by the Det/CC prior to COI action officer approval. Failure to provide the Dec/CC approval will delay the waiver process.
+
+General waiver. All other waivers will be entered into X-Net and evaluated on a case-by-case basis.
+
+Attendance. An organized guest attendance roster must be used at COI events. Example rosters are provided on the RRR Intranet site. Collect name and contact information at a minimum. Personal information such as a social security number is not collected on this roster. When soliciting information subject to the Privacy Act of 1974 from leads, the following statement must be read, given, or shown to persons signing in: “We will be happy to provide you more information about USAF opportunities as authorized by Title 10 United States Code § 503 and governing directives for AFRS. The information solicited will be used to determine eligibility and to allow follow-up contact. The routine use of this information will be for USAF recruiting purposes only. Providing the information is voluntary; however, failure to provide sufficient information may prevent action on your inquiry.”
+
+At a maximum, you may only have one military member (cadre or cadet) for every three civilian leads or guests (i.e., if there are two cadre members and one cadet in attendance there should be nine leads or guests in attendance as well).
+
+Limit military personnel to those with a role in the COI event such as the guest speaker, appropriate escort ratios (3:1), Det/CC, or a military distinguished visitor (DV) (equivalent to a USAF colonel or higher).
+
+AARs and WINGS updates. ROs must document follow-up actions concerning leads and influencers who attended a COI within five business days of the event. The AAR is entered electronically and is logged in Teams under ROTC Recruiting Branch-ROs Det Cadre-Plans & AARs ROs All Regions. ROs are responsible for entering the lead contact information into WINGS.
+
+### Tips and Recommendations from the Field
+Make sure you are in contact with AFROTC/RRR well in advance of deadlines when you request approval for flyers/handouts/locally produced advertising. The RRR office is small and handles requests from all AFROTC detachments.
+
+Know your university policy on “chalking,” literally drawing in the sidewalk with colored chalk, and the placement of campaign style yard signs. Some schools restrict when/where these things can be done but they are inexpensive ways to reach a large number of students in targeted locations, like next to the STEM library, coffee shops, or nursing college.
+
+Does your school allow the hanging of banners in high traffic areas, like student unions or dining facilities? If so, take advantage of such opportunities.
+
+Reach out to the marketing/advertising office on your host campus. A lot of them will make commercials and do advertising for the detachment for free. If you can get the school to fund the project, there are less restrictions on when and where the advertisement can be used.
+
+Think outside the box! Use advertising funds to purchase advertising space on parking meters during a football game (pay for parking and place advertising on the meters), work with university marketing department to create table tents for student centers or cafeterias, purchase advertisements for STEM dorms, etc.
+
+Purchase advertisements in key influencer, feeder high school, and local STEM organization publications.
+
+Focus your COI events on diversity, STEM, and influencers. Invite subject matter experts to attend your COI event. If you’re targeting STEM majors and don’t have a STEM officer at your detachment, ask another officer in your region or closest USAF unit to support your event. If you are targeting a minority market, ensure a minority cadre member is in attendance or invite one from the surrounding area. It is important for potential cadets to see people like themselves in the AFROTC program and already serving.
+
+Invite a guest speaker or person of significant influence (e.g. distinguished alumni) to give your COI personnel an idea of their future trajectory after completing the AFROTC program.
+
+Work with the local school districts to find out when they are training their guidance counselors prior to the start of school and arrange a COI event there. University admissions officers, university freshman orientation personnel, parent-based groups (high school parent teacher association or organization (PTA/PTO)), Boy Scout and Girl Scout leadership training events may provide a great COI opportunity.
 
 ## CHAPTER 5 – DETACHMENT WEBSITE AND SOCIAL MEDIA
 ### Overview. 

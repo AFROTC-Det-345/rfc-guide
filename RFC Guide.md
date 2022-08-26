@@ -192,10 +192,10 @@ All correspondence with leads will be tracked within WINGS for record-keeping, l
 
 ### Entering a lead or influencer into WINGS 
 
-![Figure 3.1.](/images/Figure 3.1.png)
+![Figure 3.1.](/images/figure_3.1.png)
 Figure 3.1. – Select WINGS module
 
-![Figure 3.2.](/images/Figure 3.2.png)
+![Figure 3.2.](/images/figure_3.2.png)
 Figure 3.2. – Select Recruiting / Admissions module
 >**Note:** Your Recruiting/Admissions module may be in a different location on your screen.
  

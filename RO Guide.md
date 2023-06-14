@@ -1,4 +1,4 @@
-# RFC Guide
+# RO Guide
 
 ## OVERVIEW
 This guide is designed to familiarize Air Force Reserve Officer Training Corps (AFROTC) recruiting officers (RO) with detachment-level recruiting responsibilities and processes. It also provides tips and recommendations from the field to assist ROs in their duties. 
